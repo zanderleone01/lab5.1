@@ -6,7 +6,7 @@
 // CSCI 1470 Instructor: Dr. Jonatan Reyes
 // Program Description: Asks for number of patients, their names,
 //                      weights, and heights, and calculates their
-//                      BMI and weight classification
+//                      BMI and weight classification.
 /////////////////////////////////////////////////////////////////////
 
 #include <iostream>
