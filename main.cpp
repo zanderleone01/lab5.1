@@ -38,7 +38,6 @@ int main()
         cout << "Enter weight in kilograms: ";
         cin >> kiloG;
         if (kiloG < 0) {
-            cout << defaultfloat << fixed;
             cout << "ERROR: The value " << kiloG << " is invalid for weight in kilograms." << endl;
             cout << "Program ended." << endl;
 
@@ -47,7 +46,6 @@ int main()
         cout << "Enter height in centimeters: ";
         cin >> height;
         if (height < 0) {
-            cout << defaultfloat << fixed;
             cout << "ERROR: The value " << height << " is invalid for height in centimeters." << endl;
             cout << "Program ended." << endl;
 
